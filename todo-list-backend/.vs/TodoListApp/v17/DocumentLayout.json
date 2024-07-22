@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omen\\source\\repos\\TodoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240716.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240716.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240717.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240717.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240719.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240719.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240722.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240722.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\todolistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\todolistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\dtos\\getnotebyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\dtos\\getnotebyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240718.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240718.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240712.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240712.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240710.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240710.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240709.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240709.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend 2\\todo-list-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend\\todo-frontend\\src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\log20240711.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\log20240711.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|c:\\users\\omen\\source\\repos\\todolistapp\\todolistapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC97257A-6BAD-4D2A-8247-7A260231ADEA}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Startup.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Startup.cs",
+              "RelativeToolTip": "TodoListApp\\Startup.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAkwIkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:20:50.2Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "log20240716.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240716.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240716.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240716.txt",
+              "RelativeToolTip": "TodoListApp\\log20240716.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-22T06:34:39.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "log20240722.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240722.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240722.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240722.txt",
+              "RelativeToolTip": "TodoListApp\\log20240722.txt",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-22T06:32:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "log20240719.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240719.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240719.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240719.txt",
+              "RelativeToolTip": "TodoListApp\\log20240719.txt",
+              "ViewState": "AQIAACoCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-19T14:20:06.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Program.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Program.cs",
+              "RelativeToolTip": "TodoListApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA5wCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:45:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "TodoListApp\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAkwIMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:32:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "TodoListApp\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:22:55.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Models\\Note.cs",
+              "RelativeToolTip": "TodoListApp\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:24:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Models\\User.cs",
+              "RelativeToolTip": "TodoListApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:35:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\NoteDTO.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\DTOs\\NoteDTO.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\NoteDTO.cs",
+              "RelativeToolTip": "TodoListApp\\DTOs\\NoteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:14:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoListApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\appsettings.json",
+              "RelativeToolTip": "TodoListApp\\appsettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T13:17:40.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Services\\TokenService.cs",
+              "RelativeToolTip": "TodoListApp\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:31:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TodoListApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswKQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:28:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoListApp.csproj",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\TodoListApp.csproj",
+              "RelativeDocumentMoniker": "TodoListApp\\TodoListApp.csproj",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\TodoListApp.csproj",
+              "RelativeToolTip": "TodoListApp\\TodoListApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T06:37:08.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "log20240717.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240717.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240717.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240717.txt",
+              "RelativeToolTip": "TodoListApp\\log20240717.txt",
+              "ViewState": "AQIAAAMDAAAAAAAAAAAAAMwDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-17T10:25:45.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "log20240712.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240712.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240712.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240712.txt",
+              "RelativeToolTip": "TodoListApp\\log20240712.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-17T12:12:27.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetNoteByUserIdDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\GetNoteByUserIdDTO.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\DTOs\\GetNoteByUserIdDTO.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\DTOs\\GetNoteByUserIdDTO.cs",
+              "RelativeToolTip": "TodoListApp\\DTOs\\GetNoteByUserIdDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:03:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "log20240718.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240718.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240718.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240718.txt",
+              "RelativeToolTip": "TodoListApp\\log20240718.txt",
+              "ViewState": "AQIAAL0AAAAAAAAAAABBwNUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T05:55:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TodoListApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:27:03.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "log20240710.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240710.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240710.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240710.txt",
+              "RelativeToolTip": "TodoListApp\\log20240710.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-10T05:19:29.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "log20240709.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240709.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240709.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240709.txt",
+              "RelativeToolTip": "TodoListApp\\log20240709.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-10T14:03:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend 2\\todo-list-app\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend 2\\todo-list-app\\src\\App.js",
+              "ToolTip": "C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend 2\\todo-list-app\\src\\App.js",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend 2\\todo-list-app\\src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-16T06:33:22.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend\\todo-frontend\\src\\components\\Login.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend\\todo-frontend\\src\\components\\Login.js",
+              "ToolTip": "C:\\Users\\omen\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend\\todo-frontend\\src\\components\\Login.js",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\todo-frontend\\todo-frontend\\src\\components\\Login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T13:56:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "log20240711.txt",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240711.txt",
+              "RelativeDocumentMoniker": "TodoListApp\\log20240711.txt",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\log20240711.txt",
+              "RelativeToolTip": "TodoListApp\\log20240711.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T08:17:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TodoListApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\omen\\source\\repos\\TodoListApp\\TodoListApp\\appsettings.Development.json",
+              "RelativeToolTip": "TodoListApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T11:37:25.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

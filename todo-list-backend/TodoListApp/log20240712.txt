@@ -1,0 +1,342 @@
+2024-07-12 08:25:06.460 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:25:53.256 +03:00 [INF] Login method called.
+2024-07-12 08:25:54.478 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 08:35:42.068 +03:00 [INF] Login method called.
+2024-07-12 08:35:42.083 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 08:44:47.163 +03:00 [INF] Login method called.
+2024-07-12 08:44:47.204 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 08:52:27.049 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:52:50.964 +03:00 [ERR] UserId claim is missing.
+2024-07-12 08:52:57.895 +03:00 [ERR] UserId claim is missing.
+2024-07-12 08:53:12.028 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:54:04.126 +03:00 [ERR] UserId claim is missing.
+2024-07-12 08:54:20.557 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:54:24.367 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:55:02.208 +03:00 [ERR] UserId claim is missing.
+2024-07-12 08:57:11.097 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:57:47.321 +03:00 [INF] AddNote method called.
+2024-07-12 08:57:48.094 +03:00 [INF] Note successfully added.
+2024-07-12 08:58:39.729 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 08:59:48.066 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-12 09:00:05.319 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:00:15.920 +03:00 [ERR] UserId claim is missing.
+2024-07-12 09:06:58.802 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:07:10.668 +03:00 [ERR] UserId claim is missing.
+2024-07-12 09:11:59.104 +03:00 [INF] Login method called.
+2024-07-12 09:11:59.911 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:21:31.543 +03:00 [INF] Login method called.
+2024-07-12 09:21:31.560 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:21:59.442 +03:00 [INF] Login method called.
+2024-07-12 09:21:59.483 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:23:39.891 +03:00 [INF] Login method called.
+2024-07-12 09:23:39.895 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:25:44.659 +03:00 [INF] Login method called.
+2024-07-12 09:26:10.777 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:26:30.903 +03:00 [INF] Login method called.
+2024-07-12 09:26:30.907 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:27:11.652 +03:00 [INF] Login method called.
+2024-07-12 09:27:11.654 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:27:16.442 +03:00 [INF] Login method called.
+2024-07-12 09:27:16.444 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:29:22.755 +03:00 [INF] Login method called.
+2024-07-12 09:29:22.758 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:30:20.834 +03:00 [INF] Login method called.
+2024-07-12 09:30:20.837 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:30:26.940 +03:00 [INF] Login method called.
+2024-07-12 09:30:26.941 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:37:27.003 +03:00 [INF] Login method called.
+2024-07-12 09:37:27.008 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:38:04.907 +03:00 [INF] Login method called.
+2024-07-12 09:38:04.910 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:38:25.244 +03:00 [INF] Login method called.
+2024-07-12 09:38:25.245 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:38:59.638 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:39:18.766 +03:00 [INF] Login method called.
+2024-07-12 09:39:19.886 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:39:26.584 +03:00 [INF] Login method called.
+2024-07-12 09:39:26.600 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:41:01.129 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:43:34.082 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:45:02.882 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:45:46.110 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:46:56.145 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:47:51.363 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:48:54.763 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:49:08.576 +03:00 [INF] GetNote method called with id: 16
+2024-07-12 09:49:31.358 +03:00 [INF] Note retrieved successfully with id: 16
+2024-07-12 09:53:47.217 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 09:56:59.410 +03:00 [INF] Login method called.
+2024-07-12 09:56:59.459 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:56:59.765 +03:00 [INF] Login method called.
+2024-07-12 09:56:59.803 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:57:28.876 +03:00 [INF] Login method called.
+2024-07-12 09:57:28.880 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 09:59:19.213 +03:00 [INF] Login method called.
+2024-07-12 09:59:19.217 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:00:30.124 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 10:11:38.678 +03:00 [INF] Login method called.
+2024-07-12 10:11:38.731 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:11:40.106 +03:00 [INF] Login method called.
+2024-07-12 10:11:40.148 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:11:50.516 +03:00 [INF] Login method called.
+2024-07-12 10:11:50.520 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:18:21.831 +03:00 [INF] Login method called.
+2024-07-12 10:18:21.835 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:18:28.676 +03:00 [INF] Login method called.
+2024-07-12 10:18:28.678 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:18:47.695 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 10:19:08.367 +03:00 [INF] Login method called.
+2024-07-12 10:19:09.211 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:19:15.050 +03:00 [INF] Login method called.
+2024-07-12 10:19:15.092 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:20:42.417 +03:00 [INF] Login method called.
+2024-07-12 10:20:42.421 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:20:59.377 +03:00 [INF] Login method called.
+2024-07-12 10:20:59.378 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:22:51.471 +03:00 [INF] Login method called.
+2024-07-12 10:22:51.475 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:24:10.947 +03:00 [INF] Login method called.
+2024-07-12 10:24:10.950 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:24:18.772 +03:00 [INF] Login method called.
+2024-07-12 10:24:18.773 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:24:59.795 +03:00 [INF] Login method called.
+2024-07-12 10:24:59.798 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:27:15.615 +03:00 [INF] Login method called.
+2024-07-12 10:32:05.352 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 10:32:25.988 +03:00 [INF] Login method called.
+2024-07-12 10:32:26.813 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:32:31.543 +03:00 [INF] Login method called.
+2024-07-12 10:32:31.560 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:32:49.014 +03:00 [INF] Login method called.
+2024-07-12 10:32:49.055 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:33:24.026 +03:00 [INF] Login method called.
+2024-07-12 10:33:24.028 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:33:30.417 +03:00 [INF] Login method called.
+2024-07-12 10:33:30.419 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:38:25.760 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 10:38:44.557 +03:00 [INF] Login method called.
+2024-07-12 10:38:45.379 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:38:52.142 +03:00 [INF] Login method called.
+2024-07-12 10:38:52.184 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:40:27.634 +03:00 [INF] Login method called.
+2024-07-12 10:40:27.639 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:41:17.536 +03:00 [INF] Login method called.
+2024-07-12 10:41:17.537 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:45:10.266 +03:00 [INF] Login method called.
+2024-07-12 10:45:27.082 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method8(Closure, QueryContext)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at TodoListApp.Controllers.UserController.Login(UserDTO dto) in C:\Users\omen\source\repos\TodoListApp\TodoListApp\Controllers\UserController.cs:line 41
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-12 10:45:39.552 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 10:45:55.081 +03:00 [INF] Login method called.
+2024-07-12 10:45:55.947 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 10:48:25.351 +03:00 [INF] Login method called.
+2024-07-12 10:48:25.355 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 11:04:09.345 +03:00 [INF] Login method called.
+2024-07-12 11:04:09.363 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 11:05:00.571 +03:00 [INF] Login method called.
+2024-07-12 11:05:00.575 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 11:15:24.358 +03:00 [INF] Login method called.
+2024-07-12 11:15:24.365 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:13:43.040 +03:00 [INF] Login method called.
+2024-07-12 13:13:43.053 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:14:47.661 +03:00 [INF] Login method called.
+2024-07-12 13:14:47.664 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:46:55.416 +03:00 [INF] Login method called.
+2024-07-12 13:46:55.422 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:49:49.410 +03:00 [INF] Login method called.
+2024-07-12 13:49:49.413 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:50:33.980 +03:00 [INF] Login method called.
+2024-07-12 13:50:33.984 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:51:54.828 +03:00 [INF] Login method called.
+2024-07-12 13:51:54.832 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:53:03.965 +03:00 [INF] Login method called.
+2024-07-12 13:53:03.969 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:55:52.746 +03:00 [INF] Login method called.
+2024-07-12 13:55:52.749 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:56:13.326 +03:00 [INF] Login method called.
+2024-07-12 13:56:13.329 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:56:45.297 +03:00 [INF] Login method called.
+2024-07-12 13:56:45.300 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 13:56:51.121 +03:00 [INF] Login method called.
+2024-07-12 13:56:51.123 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:07:05.976 +03:00 [INF] Login method called.
+2024-07-12 14:07:05.982 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:07:44.899 +03:00 [INF] Login method called.
+2024-07-12 14:07:44.902 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:12:24.714 +03:00 [INF] Login method called.
+2024-07-12 14:12:24.721 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:13:19.453 +03:00 [INF] Login method called.
+2024-07-12 14:13:19.456 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:13:36.640 +03:00 [INF] Login method called.
+2024-07-12 14:13:36.642 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:13:57.190 +03:00 [INF] Login method called.
+2024-07-12 14:13:57.193 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:25:09.150 +03:00 [INF] Login method called.
+2024-07-12 14:25:09.153 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:27:06.175 +03:00 [INF] Login method called.
+2024-07-12 14:27:06.179 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:28:08.706 +03:00 [INF] Login method called.
+2024-07-12 14:28:08.709 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:29:01.044 +03:00 [INF] Login method called.
+2024-07-12 14:29:01.047 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:31:16.571 +03:00 [INF] Login method called.
+2024-07-12 14:31:16.575 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:31:31.076 +03:00 [INF] Login method called.
+2024-07-12 14:31:31.080 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:33:38.833 +03:00 [INF] Login method called.
+2024-07-12 14:33:38.836 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:33:50.778 +03:00 [INF] Login method called.
+2024-07-12 14:33:50.782 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:34:33.501 +03:00 [INF] Login method called.
+2024-07-12 14:34:33.503 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:34:44.810 +03:00 [INF] Login method called.
+2024-07-12 14:34:44.813 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:36:09.840 +03:00 [INF] Login method called.
+2024-07-12 14:36:09.844 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:36:32.050 +03:00 [INF] Login method called.
+2024-07-12 14:36:32.053 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:38:47.927 +03:00 [INF] Login method called.
+2024-07-12 14:38:47.930 +03:00 [WRN] Invalid login attempt for username: kaan
+2024-07-12 14:38:54.396 +03:00 [INF] Login method called.
+2024-07-12 14:38:54.397 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:43:13.028 +03:00 [INF] Login method called.
+2024-07-12 14:43:13.031 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:43:29.650 +03:00 [INF] Login method called.
+2024-07-12 14:43:29.651 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:47:47.449 +03:00 [INF] Login method called.
+2024-07-12 14:47:47.455 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 14:48:17.591 +03:00 [INF] Login method called.
+2024-07-12 14:48:17.594 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:02:40.878 +03:00 [INF] Login method called.
+2024-07-12 15:02:40.885 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:04:06.757 +03:00 [INF] Login method called.
+2024-07-12 15:04:06.760 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:08:49.695 +03:00 [INF] Login method called.
+2024-07-12 15:08:49.698 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:26:21.906 +03:00 [INF] Login method called.
+2024-07-12 15:26:21.911 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:27:33.115 +03:00 [INF] Login method called.
+2024-07-12 15:27:33.118 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:27:54.285 +03:00 [INF] Login method called.
+2024-07-12 15:27:54.288 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:29:50.366 +03:00 [INF] Login method called.
+2024-07-12 15:29:50.369 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:30:02.957 +03:00 [INF] Login method called.
+2024-07-12 15:30:02.958 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:30:53.141 +03:00 [INF] Login method called.
+2024-07-12 15:30:53.147 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:31:16.482 +03:00 [INF] Login method called.
+2024-07-12 15:31:16.485 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:36:44.664 +03:00 [INF] Login method called.
+2024-07-12 15:36:44.667 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:40:07.577 +03:00 [INF] Login method called.
+2024-07-12 15:40:07.579 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:40:58.375 +03:00 [INF] Login method called.
+2024-07-12 15:40:58.378 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:41:43.160 +03:00 [INF] Login method called.
+2024-07-12 15:41:43.163 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:45:55.999 +03:00 [INF] Login method called.
+2024-07-12 15:45:56.001 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:46:10.468 +03:00 [INF] Login method called.
+2024-07-12 15:46:10.471 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:50:48.310 +03:00 [INF] Login method called.
+2024-07-12 15:50:48.313 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:51:06.496 +03:00 [INF] Login method called.
+2024-07-12 15:51:06.498 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:55:24.341 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 15:56:20.270 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 15:56:39.598 +03:00 [INF] Login method called.
+2024-07-12 15:56:40.440 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:56:40.464 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-12 15:57:00.445 +03:00 [INF] Login method called.
+2024-07-12 15:57:00.462 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:57:02.746 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-12 15:58:44.864 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 15:59:32.253 +03:00 [INF] Login method called.
+2024-07-12 15:59:32.936 +03:00 [INF] Login method called.
+2024-07-12 15:59:33.064 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:59:33.064 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 15:59:47.441 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 16:00:09.568 +03:00 [INF] Login method called.
+2024-07-12 16:00:10.380 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:00:10.399 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-12 16:01:27.633 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-12 16:02:06.976 +03:00 [INF] Login method called.
+2024-07-12 16:02:07.785 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:02:29.400 +03:00 [INF] Login method called.
+2024-07-12 16:02:29.442 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:04:41.094 +03:00 [INF] Login method called.
+2024-07-12 16:04:41.098 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:23:15.861 +03:00 [INF] Login method called.
+2024-07-12 16:23:15.868 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:27:22.742 +03:00 [INF] Login method called.
+2024-07-12 16:27:22.745 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:27:52.692 +03:00 [INF] Login method called.
+2024-07-12 16:27:52.695 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:28:22.091 +03:00 [INF] Login method called.
+2024-07-12 16:28:22.094 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:29:36.412 +03:00 [INF] Login method called.
+2024-07-12 16:29:36.416 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:30:22.177 +03:00 [INF] Login method called.
+2024-07-12 16:30:22.181 +03:00 [INF] User logged in successfully: kaan
+2024-07-12 16:55:23.322 +03:00 [INF] Login method called.
+2024-07-12 16:55:23.329 +03:00 [INF] User logged in successfully: kaan

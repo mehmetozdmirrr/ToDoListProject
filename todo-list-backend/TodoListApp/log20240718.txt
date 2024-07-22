@@ -1,0 +1,224 @@
+2024-07-18 08:22:22.145 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:22:46.064 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:22:46.803 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:28:39.217 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:28:40.009 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:39:02.305 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:39:03.128 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:39:31.105 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:39:31.961 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:40:37.515 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:40:38.281 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:40:50.130 +03:00 [INF] GetUser method called for User ID: 12
+2024-07-18 08:40:51.057 +03:00 [INF] User retrieved successfully for User ID: 12
+2024-07-18 08:44:07.099 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:44:07.899 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:44:23.651 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:44:24.458 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:45:01.789 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:45:02.563 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:48:22.526 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:48:23.305 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:51:05.962 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:51:06.734 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:52:39.340 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:54:13.107 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 08:54:37.211 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:54:51.653 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:55:55.401 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:56:18.515 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 08:56:19.284 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:05:06.439 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:05:07.260 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:05:45.100 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:05:46.229 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:13:57.742 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:13:58.724 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:14:54.780 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:14:55.587 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:15:19.707 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:15:20.605 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:15:33.939 +03:00 [INF] Login method called.
+2024-07-18 09:15:34.892 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 09:16:04.329 +03:00 [INF] GetNote method called with id: 12
+2024-07-18 09:16:54.236 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:16:58.018 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:17:13.572 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:17:14.376 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:17:39.354 +03:00 [INF] Login method called.
+2024-07-18 09:17:40.477 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 09:18:16.399 +03:00 [INF] GetNote method called with id: 12
+2024-07-18 09:18:44.903 +03:00 [INF] GetNote method called with id: 12
+2024-07-18 09:19:01.341 +03:00 [INF] AddNote method called.
+2024-07-18 09:19:01.436 +03:00 [INF] Note successfully added.
+2024-07-18 09:19:52.170 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:19:52.962 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:21:27.440 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 09:21:28.323 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 09:23:07.130 +03:00 [INF] Login method called.
+2024-07-18 09:23:07.957 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:23:18.264 +03:00 [INF] Login method called.
+2024-07-18 09:23:18.282 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:24:33.831 +03:00 [INF] Login method called.
+2024-07-18 09:24:33.875 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:24:44.094 +03:00 [INF] Login method called.
+2024-07-18 09:24:44.096 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:26:20.836 +03:00 [INF] Login method called.
+2024-07-18 09:26:20.849 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:26:33.222 +03:00 [INF] Login method called.
+2024-07-18 09:26:33.224 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:35:58.910 +03:00 [INF] Login method called.
+2024-07-18 09:35:58.922 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:36:11.371 +03:00 [INF] Login method called.
+2024-07-18 09:36:11.389 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:37:53.840 +03:00 [INF] Login method called.
+2024-07-18 09:37:53.847 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:37:53.859 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 09:37:53.877 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 09:38:01.476 +03:00 [INF] Login method called.
+2024-07-18 09:38:01.478 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 09:38:29.373 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 09:38:29.987 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:08:54.495 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 10:08:55.153 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 10:24:51.701 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 10:24:52.423 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 10:45:53.761 +03:00 [INF] Login method called.
+2024-07-18 10:45:54.677 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:46:06.128 +03:00 [INF] Login method called.
+2024-07-18 10:46:06.144 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:47:13.076 +03:00 [INF] Login method called.
+2024-07-18 10:47:13.119 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:47:13.162 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:47:13.187 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:47:25.139 +03:00 [INF] Login method called.
+2024-07-18 10:47:25.141 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:47:36.216 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:48:43.660 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:48:43.669 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:48:47.993 +03:00 [INF] Login method called.
+2024-07-18 10:48:47.997 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:49:03.045 +03:00 [INF] Login method called.
+2024-07-18 10:49:03.046 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:51:34.400 +03:00 [INF] Login method called.
+2024-07-18 10:51:34.403 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:53:33.585 +03:00 [INF] Login method called.
+2024-07-18 10:53:33.603 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 10:53:45.006 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 10:53:45.596 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:21:02.199 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 11:21:02.948 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 11:27:05.774 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 11:27:06.481 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 11:39:17.570 +03:00 [INF] Login method called.
+2024-07-18 11:39:18.468 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:39:18.523 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:39:18.558 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:39:33.921 +03:00 [INF] Login method called.
+2024-07-18 11:39:33.925 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:40:00.362 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:40:01.004 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:41:40.840 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:41:40.848 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:41:43.222 +03:00 [INF] Login method called.
+2024-07-18 11:41:43.231 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:41:55.288 +03:00 [INF] Login method called.
+2024-07-18 11:41:55.289 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:42:34.352 +03:00 [INF] Login method called.
+2024-07-18 11:42:34.369 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:50:13.591 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 11:50:14.331 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 11:50:27.592 +03:00 [INF] Login method called.
+2024-07-18 11:50:28.403 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:50:34.518 +03:00 [INF] Login method called.
+2024-07-18 11:50:34.535 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:51:52.920 +03:00 [INF] Login method called.
+2024-07-18 11:51:52.959 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:52:00.783 +03:00 [INF] Login method called.
+2024-07-18 11:52:00.785 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:53:19.484 +03:00 [INF] Login method called.
+2024-07-18 11:53:19.491 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:53:19.527 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:53:19.551 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:53:44.641 +03:00 [INF] Login method called.
+2024-07-18 11:53:44.659 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:53:54.525 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:53:55.188 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:55:05.120 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:55:05.128 +03:00 [INF] GetNote method called with id: 0
+2024-07-18 11:55:07.069 +03:00 [INF] Login method called.
+2024-07-18 11:55:07.079 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:55:54.965 +03:00 [INF] Login method called.
+2024-07-18 11:55:54.979 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 11:56:07.364 +03:00 [INF] Login method called.
+2024-07-18 11:56:07.366 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:08:50.856 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 12:08:51.620 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 12:14:05.479 +03:00 [INF] Login method called.
+2024-07-18 12:14:06.285 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:14:42.655 +03:00 [INF] Login method called.
+2024-07-18 12:14:42.676 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:41:11.985 +03:00 [INF] Login method called.
+2024-07-18 12:41:12.033 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:43:10.409 +03:00 [INF] Login method called.
+2024-07-18 12:43:10.426 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 12:43:33.540 +03:00 [INF] GetNote method called with id: 12
+2024-07-18 12:43:57.125 +03:00 [INF] Login method called.
+2024-07-18 12:43:57.129 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:45:19.960 +03:00 [INF] Login method called.
+2024-07-18 12:45:19.968 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:52:21.910 +03:00 [INF] Login method called.
+2024-07-18 12:52:21.921 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:52:47.085 +03:00 [INF] Login method called.
+2024-07-18 12:52:47.087 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:54:25.973 +03:00 [INF] Login method called.
+2024-07-18 12:54:26.008 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:55:24.604 +03:00 [INF] Login method called.
+2024-07-18 12:55:24.623 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 12:58:10.837 +03:00 [INF] Login method called.
+2024-07-18 12:58:10.844 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:00:39.282 +03:00 [INF] Login method called.
+2024-07-18 13:00:39.289 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:12:21.784 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:12:22.545 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 13:12:44.578 +03:00 [INF] Login method called.
+2024-07-18 13:12:45.413 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 13:15:47.987 +03:00 [INF] Login method called.
+2024-07-18 13:15:48.020 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 13:16:42.746 +03:00 [INF] Login method called.
+2024-07-18 13:16:42.788 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:20:53.623 +03:00 [INF] GetNote method called with id: 12
+2024-07-18 13:24:58.464 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:24:59.230 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 13:25:16.733 +03:00 [INF] Login method called.
+2024-07-18 13:25:17.541 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:28:07.882 +03:00 [INF] Login method called.
+2024-07-18 13:28:07.903 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:28:39.011 +03:00 [INF] Login method called.
+2024-07-18 13:28:39.054 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:28:59.939 +03:00 [INF] Login method called.
+2024-07-18 13:28:59.941 +03:00 [INF] User logged in successfully: kaan
+2024-07-18 13:29:50.983 +03:00 [INF] Login method called.
+2024-07-18 13:29:50.991 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:43:18.723 +03:00 [INF] Login method called.
+2024-07-18 13:43:18.735 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:43:25.128 +03:00 [INF] Login method called.
+2024-07-18 13:43:25.130 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:43:35.824 +03:00 [INF] Login method called.
+2024-07-18 13:43:35.826 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:44:15.229 +03:00 [INF] Login method called.
+2024-07-18 13:44:15.236 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:44:54.475 +03:00 [INF] Login method called.
+2024-07-18 13:44:54.481 +03:00 [INF] User logged in successfully: kaan 
+2024-07-18 13:47:15.524 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:47:44.178 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:47:58.982 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 13:49:20.864 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:49:43.401 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:49:56.592 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 13:50:36.624 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:50:52.556 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:51:08.234 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-18 13:51:08.952 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-18 13:51:31.226 +03:00 [INF] Login method called.
+2024-07-18 13:51:32.046 +03:00 [INF] User logged in successfully: kaan 

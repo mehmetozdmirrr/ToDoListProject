@@ -1,0 +1,102 @@
+2024-07-22 08:28:21.764 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 08:28:25.665 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 08:29:02.158 +03:00 [INF] Login method called.
+2024-07-22 08:29:03.259 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:29:03.319 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:29:03.374 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:29:11.105 +03:00 [INF] UpdateNote method called with id: 30
+2024-07-22 08:29:11.170 +03:00 [INF] Note successfully updated with id: 30
+2024-07-22 08:29:30.966 +03:00 [INF] AddUser method called.
+2024-07-22 08:29:31.002 +03:00 [INF] User successfully added: elma
+2024-07-22 08:29:31.010 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:29:31.016 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:32:53.032 +03:00 [INF] AddUser method called.
+2024-07-22 08:32:53.037 +03:00 [INF] User successfully added: selin
+2024-07-22 08:37:00.585 +03:00 [INF] AddUser method called.
+2024-07-22 08:37:00.587 +03:00 [INF] User successfully added: elif
+2024-07-22 08:37:10.861 +03:00 [INF] Login method called.
+2024-07-22 08:37:10.865 +03:00 [INF] User logged in successfully: elif
+2024-07-22 08:37:10.872 +03:00 [INF] GetNote method called with id: 23
+2024-07-22 08:37:10.877 +03:00 [INF] GetNote method called with id: 23
+2024-07-22 08:37:17.735 +03:00 [INF] AddNote method called.
+2024-07-22 08:37:17.747 +03:00 [INF] Note successfully added.
+2024-07-22 08:37:19.852 +03:00 [INF] GetNote method called with id: 23
+2024-07-22 08:37:19.856 +03:00 [INF] GetNote method called with id: 23
+2024-07-22 08:37:36.268 +03:00 [INF] Login method called.
+2024-07-22 08:37:36.270 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:37:36.276 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:37:36.281 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:37:47.093 +03:00 [INF] Login method called.
+2024-07-22 08:37:47.096 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:37:47.101 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:37:47.106 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:49:16.273 +03:00 [INF] Login method called.
+2024-07-22 08:49:16.279 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:52:38.072 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:52:38.078 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:52:52.315 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:52:52.321 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:53:38.334 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:54:57.189 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:55:10.454 +03:00 [INF] Login method called.
+2024-07-22 08:55:10.457 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:55:10.470 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:55:10.473 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:55:24.890 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:55:24.895 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:57:57.389 +03:00 [INF] Login method called.
+2024-07-22 08:57:57.392 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:57:57.406 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:57:57.410 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:58:00.078 +03:00 [INF] Login method called.
+2024-07-22 08:58:00.079 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:58:00.084 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:58:00.087 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:58:05.254 +03:00 [INF] Login method called.
+2024-07-22 08:58:05.256 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 08:58:05.262 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 08:58:05.265 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:01:13.826 +03:00 [INF] Login method called.
+2024-07-22 09:01:13.831 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 09:01:13.841 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:01:13.845 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:41:17.969 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 09:41:21.699 +03:00 [WRN] The WebRootPath was not found: C:\Users\omen\source\repos\TodoListApp\TodoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 09:41:37.307 +03:00 [INF] Login method called.
+2024-07-22 09:41:38.306 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 09:41:38.363 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:41:38.416 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:42:23.692 +03:00 [INF] Login method called.
+2024-07-22 09:42:23.696 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 09:42:23.708 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:42:23.713 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:43:12.133 +03:00 [INF] Login method called.
+2024-07-22 09:43:12.136 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 09:43:12.148 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 09:43:12.153 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:18:24.281 +03:00 [INF] Login method called.
+2024-07-22 10:18:24.294 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 10:18:24.301 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:18:24.308 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:18:46.044 +03:00 [INF] Login method called.
+2024-07-22 10:18:46.054 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 10:18:46.060 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:18:46.064 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:51:06.416 +03:00 [INF] Login method called.
+2024-07-22 10:51:06.425 +03:00 [INF] User logged in successfully: kaan 
+2024-07-22 10:51:06.434 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:51:06.439 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:51:14.203 +03:00 [INF] AddNote method called.
+2024-07-22 10:51:14.296 +03:00 [INF] Note successfully added.
+2024-07-22 10:51:16.129 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:51:16.134 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:51:26.356 +03:00 [INF] UpdateNote method called with id: 30
+2024-07-22 10:51:26.373 +03:00 [INF] Note successfully updated with id: 30
+2024-07-22 10:51:33.610 +03:00 [INF] UpdateNote method called with id: 30
+2024-07-22 10:51:33.622 +03:00 [INF] Note successfully updated with id: 30
+2024-07-22 10:51:44.109 +03:00 [INF] DeleteNote method called with id: 30
+2024-07-22 10:51:44.125 +03:00 [INF] Note successfully deleted with id: 30
+2024-07-22 10:58:21.252 +03:00 [INF] AddNote method called.
+2024-07-22 10:58:21.270 +03:00 [INF] Note successfully added.
+2024-07-22 10:58:24.718 +03:00 [INF] GetNote method called with id: 12
+2024-07-22 10:58:24.722 +03:00 [INF] GetNote method called with id: 12

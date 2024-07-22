@@ -1,0 +1,19 @@
+2024-07-10 08:14:54.926 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-10 08:15:40.706 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 08:16:17.485 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-10 08:16:27.260 +03:00 [INF] GetUser method called for User ID: 9
+2024-07-10 08:16:28.528 +03:00 [INF] User retrieved successfully for User ID: 9
+2024-07-10 08:17:21.859 +03:00 [INF] Login method called.
+2024-07-10 08:17:21.911 +03:00 [INF] User logged in successfully: anıl
+2024-07-10 08:17:37.303 +03:00 [INF] GetUser method called for User ID: 9
+2024-07-10 08:17:37.343 +03:00 [INF] User retrieved successfully for User ID: 9
+2024-07-10 15:27:48.787 +03:00 [INF] Uygulama başlatılıyor.
